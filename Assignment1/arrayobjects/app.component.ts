@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
 
-	users = [{name:'gowtham',age:20},{name:'surendra',age:22},{name:'Naveen',age:30}];
+	users = [{name:'Nikhil',age:23},{name:'Akhil',age:25},{name:'Surender',age:50}];
 
 	
  }
